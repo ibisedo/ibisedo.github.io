@@ -2,8 +2,8 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = u'ibis.'
-SITENAME = u'Girls love programming'
+AUTHOR = u'ibisedo'
+SITENAME = u'Hello world.'
 SITEURL = ''
 
 TIMEZONE = 'Europe/Paris'
